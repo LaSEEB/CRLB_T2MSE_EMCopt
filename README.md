@@ -13,14 +13,8 @@ for the sequence optimised for each target T2 value.
 
 The present implementation aims to contribute towards the development of open-source tools for MRI, particularly of sequences based on MSE for cartilage imaging
 
-Disclaimer: we use the following toolboxes:
+Disclaimer: we use the following toolboxes in order to run the matlab codes, download and add the following toolboxes to the Tools folder:
 
-https://www.jemris.org/
-https://github.com/pulseq/pulseq
 
-		
-
-To run the matlab codes, download and add the following toolboxes to the Tools folder:
-
-JEMRIS - https://www.jemris.org/
+JEMRIS - https://www.jemris.org/ 
 Pulseq - https://github.com/pulseq/pulseq
