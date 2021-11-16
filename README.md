@@ -15,13 +15,12 @@ The present implementation aims to contribute towards the development of open-so
 
 Disclaimer: we use the following toolboxes:
 
-   	https://www.jemris.org/
-
-    	https://github.com/pulseq/pulseq
+https://www.jemris.org/
+https://github.com/pulseq/pulseq
 
 		
 
 To run the matlab codes, download and add the following toolboxes to the Tools folder:
 
-    JEMRIS - https://www.jemris.org/
-    Pulseq - https://github.com/pulseq/pulseq
+JEMRIS - https://www.jemris.org/
+Pulseq - https://github.com/pulseq/pulseq
