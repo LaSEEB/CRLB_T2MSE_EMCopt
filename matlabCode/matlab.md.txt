@@ -1,0 +1,21 @@
+This file helps testing matlab developed codes.
+
+1 - Fast Spin Echo (FSE = MSE) optimization with CRLB
+ 
+Folder: CRLB_optimization
+
+    #1 - You need to add to the Matlab path the toolbox of Pulseq
+    #2 - Edit path in 'FSE_optimization_TRvar.m' and run
+    #3 - Outputs, the best model for a specific SNR and T2 value
+
+2 - Test sequence with JEMRIS
+
+Folder: JEMRIS_simulation
+
+    #1 - You need to install JEMRIS (http://www.jemris.org/) to run
+    #2 - Run 'runMSE_JEMRIS.m' - to generate image from JEMRIS software. The Image will mimic the design sequence from CRLB_optimization
+    #3 - Run 'T2_MSE_JEMRIS_Test.m' to generate template mathching and prediction for T2 values of the simulated phantom.
+
+     
+
+    
