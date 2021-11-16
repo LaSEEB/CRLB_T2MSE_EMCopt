@@ -18,3 +18,5 @@ Disclaimer: we use the following toolboxes in order to run the matlab codes, dow
 
 JEMRIS - https://www.jemris.org/ 
 Pulseq - https://github.com/pulseq/pulseq
+
+%Note: - It is necessary to unzip aux_Functions and Dictionaries to run the code in CRLB_optimization
