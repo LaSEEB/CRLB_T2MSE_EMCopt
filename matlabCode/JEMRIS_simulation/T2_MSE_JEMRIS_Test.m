@@ -7,7 +7,7 @@ clc
 
 PC = 1; % PC=1 - My Computer OR PC=2 - Seia
 
-addpath(genpath('D:\Tiago\Trabalho\2021_2025_PhD\Projects\qMRI_Joint\Code\matlabCode\qMRI_tools\T2_knee'));
+addpath(genpath('D:\Tiago\Trabalho\2021_2025_PhD\Projects\qMRI_Joint\Code\matlabCode\qMRI_tools\T2_knee')); % add to directory
 
 %% 0.5 - Tests
 plotTest    = 'Fals';
@@ -22,7 +22,7 @@ testSNR   = 'TrueL';     % 'TrueH' OR 'TrueL' OR 'False'
 %% 1 - load Data MSE
 
 % ... 1.1 - get file ...
-myCD = ('D:\Tiago\Trabalho\2021_2025_PhD\Projects\qMRI_Joint\Code\matlabCode\MSE_Jemris');
+myCD = ('D:\Tiago\Trabalho\2021_2025_PhD\Projects\qMRI_Joint\Code\matlabCode\MSE_Jemris'); % Define your Directory
 dir_dic = [myCD, '\Dictionaries'];
 mkdir(dir_dic)
 
